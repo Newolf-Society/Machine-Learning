@@ -1,3 +1,6 @@
 [submodule "Animefy"]
 	path = Animefy
 	url = https://github.com/SriniRaghav007/Animefy
+[submodule "ChatBotMLproject"]
+	path = ChatBotMLproject
+	url = https://github.com/AradanaD/ChatBotMLproject
